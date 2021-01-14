@@ -2,6 +2,7 @@
 <h1 align="center">Flandre Anime Discord Bot!</h1>
 <h3 align="center">Anime Based Bot with such Commands and Customizable! Auto Ping, Auto Role, Chat Bot, Miscs, and More! Make your Server more Softy!</h3>
 
+<h3 align="center"><a href="https://infinitybotlist.com/bots/[794583581656612885]" title="widget"> <img src="https://infinitybotlist.com/bots/[794583581656612885]/widget?size=medium"></img> </a></h3>
 
 # About
 - Flandre is a Simple Misc Discord bot that is advanced!
