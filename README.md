@@ -90,5 +90,15 @@ module.exports = {
   flandre_uhh: '<:flandre_uhhh:793065670925090816>'
 }
 ```
+To make bot online
+
+make sure to install all deficiencies by typing in terminal
+```sh
+npm i
+```
+then
+```sh
+node index.js
+```
 
 
