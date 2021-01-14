@@ -101,4 +101,9 @@ then
 node index.js
 ```
 
+# License
+UNDER MIT LICENSE!, CHECK THE LICENSE FILE!
+
+#### I Do not recommend self hosting this if you dont know JS, i will also not support self hosting this since this is for learning purposes and i strictly remind that make sure you cooperate with the license!
+
 
