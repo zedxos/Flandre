@@ -3,7 +3,7 @@
 
 <h3 align="center"><a href="https://infinitybotlist.com/bots/794583581656612885" title="widget"> <img src="https://infinitybotlist.com/bots/794583581656612885/widget?size=medium"></img> </a></h3>
 
-<h3 align="center">Support <a href="https://discord.gg/dc99VGUrrw"><img src="https://invidget.switchblade.xyz/dc99VGUrrw"/></a></h3>
+<h3 align="center"><a href="https://discord.gg/dc99VGUrrw"><img src="https://invidget.switchblade.xyz/dc99VGUrrw"/></a></h3>
 
 # About
 - Flandre is a Simple Misc Discord bot that is advanced!
