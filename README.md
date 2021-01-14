@@ -3,6 +3,8 @@
 
 <h3 align="center"><a href="https://infinitybotlist.com/bots/794583581656612885" title="widget"> <img src="https://infinitybotlist.com/bots/794583581656612885/widget?size=medium"></img> </a></h3>
 
+<h3 align="center"><iframe src="https://discord.com/widget?id=796617327721578517&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></h3>
+
 # About
 - Flandre is a Simple Misc Discord bot that is advanced!
 - it really has the other commands than other Anime Bots! expect more Updates!
