@@ -54,3 +54,39 @@
 - *blush* - `Blush at someone or just yourself!`
 - *bored* - `Bored with someone or just yourself!`
 - *sad* - `Sad with someone or just yourself!`
+
+# Self Hosting
+
+### Commands
+- [CommandsChannel](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L134)
+- [AnimeMeme](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L192)
+- [Hug](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L221)
+- [Cuddle](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L244)
+- [Kiss](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L267)
+- [Help](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L290)
+> If you can add more edit this readme and open a PR!
+
+### Config 
+Flandre/Config/Config.ts
+```ts
+module.exports = {
+  discord_token: '', //Your bot's token
+  developer: '704697854207459419', //Your ID Enable Developers mode if you don't know
+  prefix: 'f.' // Your Bot's prefix
+}
+```
+Flandre/Config/Emojis.ts
+```ts
+module.exports = {
+  flandre_angery: '<:flandre_angery:793065665053327370>',
+  flandre_hi: '<:flandre_hi:793065670266847272>',
+  flandre_laugh: '<:flandre_laugh:793065670622445599>',
+  flandre_satisfied: '<:flandre_satisfied:793065670027247626>',
+  flandre_sigh: '<:flandre_sigh:793065671059308574>',
+  flandre_tired: '<:flandre_tired:793065659898396700>',
+  flandre_ugh: '<:flandre_ugh:793065673991389204>',
+  flandre_uhh: '<:flandre_uhhh:793065670925090816>'
+}
+```
+
+
