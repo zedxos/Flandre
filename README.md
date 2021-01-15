@@ -27,6 +27,7 @@
 - *avatar* - `Make your avatar or someones' avatar downloadable!`
 - *roles* - `Shows list of Roles in the Server!`
 - *channels* - `Shows list of Channels in the Server!`
+- *weather* - `Shows data weather of specific location!`
 - *emojis* - `Shows list of Emojis in the Server!`
 - *help* - `Lists all modules and description`
 - *uptime* - `Shows how many hours, days, mins i'm alive (online)!`
