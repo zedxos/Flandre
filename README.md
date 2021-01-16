@@ -17,6 +17,7 @@
 - *animebg* - `Sends a random Anime Wallpaper for pc!`
 - *animemobilebg* - `Sends a random Anime Wallpaper for mobile!`
 - *neko* - `Sends a random Neko!`
+- *ranime* - `Sends a random Anime Image!`
 ### Admin
 - *commandschannel* - `Disable/Enable a Channel for my commands!`
 - *autorole* - `Set the Autorole System!`
