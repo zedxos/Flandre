@@ -67,6 +67,11 @@
 - [Cuddle](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L244)
 - [Kiss](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L267)
 - [Help](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L290)
+- [Uptime](https://github.com/zedxos/Flandre/blob/bc140c7776ca6d4332fbf4da757ca0d2460566a0/Flandre/Flandre.js#L343)
+- [Poke](https://github.com/zedxos/Flandre/blob/bc140c7776ca6d4332fbf4da757ca0d2460566a0/Flandre/Flandre.js#L356)
+- [Feed](https://github.com/zedxos/Flandre/blob/bc140c7776ca6d4332fbf4da757ca0d2460566a0/Flandre/Flandre.js#L379)
+- [Smug](https://github.com/zedxos/Flandre/blob/bc140c7776ca6d4332fbf4da757ca0d2460566a0/Flandre/Flandre.js#L402)
+- [Pat](https://github.com/zedxos/Flandre/blob/bc140c7776ca6d4332fbf4da757ca0d2460566a0/Flandre/Flandre.js#L425)
 > If you can add more edit this readme and open a PR!
 
 ### Config 
