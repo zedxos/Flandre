@@ -109,6 +109,8 @@ then
 node index.js
 ```
 
+##### Every 3 days this will be updated if theres a new update in bot's code/feature
+
 # License
 UNDER MIT LICENSE!, CHECK THE LICENSE FILE!
 
