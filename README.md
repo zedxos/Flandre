@@ -80,6 +80,7 @@ Flandre/Config/Config.ts
 ```ts
 module.exports = {
   discord_token: '', //Your bot's token
+  cmd_cooldown: 3, //
   developer: '704697854207459419', //Your ID Enable Developers mode if you don't know
   prefix: 'f.' // Your Bot's prefix
 }
