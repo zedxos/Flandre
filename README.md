@@ -43,6 +43,7 @@
 - *divorce* - `Divorce to someone!`
 - *kiss* - `Kiss someone or just yourself!`
 - *cuddle* - `Cuddle someone or just yourself!`
+- *punch* - `Punch at someone or just yourself!`
 - *poke* - `Poke someone or just yourself!`
 - *feed* - `Feed someone or just yourself!`
 - *smug* - `Smug at someone or just yourself!`
