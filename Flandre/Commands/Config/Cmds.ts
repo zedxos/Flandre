@@ -34,6 +34,7 @@ poke
 feed
 smug
 pat
+punch
 slap
 tickle
 vomit
@@ -50,4 +51,4 @@ divorce
 Owner-(not counted)
 ev
 
-44= total
+45= total
