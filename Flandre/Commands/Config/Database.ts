@@ -350,5 +350,13 @@ function DatabaseCommands(Database) {
   Database.set(`ranimeexample`, `ranime`)
   Database.set(`ranimepermission`, `Everyone`)
   console.log('Registered Ranime Command~')
+    
+  Database.set(`punchname`, `Punch`)
+  Database.set(`punchcategory`, `Roleplay`)
+  Database.set(`punchdescription`, `Punch Someone or just yourself!`)
+  Database.set(`punchusage`, `[Mention a user]`)
+  Database.set(`punchexample`, `punch @Zed`)
+  Database.set(`punchpermission`, `Everyone`)
+  console.log('Registered Punch Command~')
 }
 module.exports = DatabaseCommands;
