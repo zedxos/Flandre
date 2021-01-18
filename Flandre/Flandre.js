@@ -8,6 +8,8 @@ const Discord = require('discord.js'),
       Sakura = require('sakuranpm'),
       RandomAnime = require('random-anime'),
       Fetch = require('node-fetch'),
+      NekoLove = require('neko-love'),
+      FlandreNekoClient = new NekoLove.Client(),
       HMfull = require('hmfull'),
       Weather = require('weather-js'),
       ChatBot = require('smartestchatbot'),
@@ -327,7 +329,7 @@ FlandreClient.on('message', async msg => {
           Flandre.messageCreate(HelpEmbed, msg);
         } else if(args[0].toLowerCase() === 'roleplay') {
           HelpEmbed.setTitle(`${FlandreHi} | *Roleplay Commands!* Do ${Prefix}help [Command]`)
-          HelpEmbed.setDescription(`\`marry, divorce, hug, kiss, cuddle, poke, feed, smug, pat, slap, tickle, vomit, cry, clap, scared, hello, bye, blush, bored, sad.\``)
+          HelpEmbed.setDescription(`\`marry, divorce, hug, kiss, cuddle, poke, punch, feed, smug, pat, slap, tickle, vomit, cry, clap, scared, hello, bye, blush, bored, sad.\``)
           Flandre.messageCreate(HelpEmbed, msg);
         } else {
           let cmd = args[0].toLowerCase(),
@@ -1239,13 +1241,32 @@ return Flandre.messageCreate(WeatherEmbedSuccess, msg);
    return Flandre.messageCreate(WeatherEmbedError, msg);
 }
 });  
+ } else if(command === 'punch') {
+     Flandre.logging(msg);
+     const PunchEmbed = new Flandre.flandreEmbedSuccess().setFooter(`Punch Flandre! Powered by Neko-Love~`, FlandreClient.user.displayAvatarURL({ dynamic: true }))
+        let User = msg.mentions.users.first();
+        if(!User) {
+          let Punchu = `*${msg.author.username} Punches itself!*`;
+    FlandreNekoClient.punch().then((url) => {
+        PunchEmbed.setTitle(`${FlandreHi} | ${Punchu}`)
+        PunchEmbed.setImage(url);
+        Flandre.messageCreate(PunchEmbed, msg);
+    });
+        } else {
+          let Punchu = `*${msg.author.username} Punches ${User.username}!*`;
+         FlandreNekoClient.punch().then((url) => {
+          PunchEmbed.setTitle(`${FlandreHi} | ${Punchu}`)
+          PunchEmbed.setImage(url)
+          Flandre.messageCreate(PunchEmbed, msg);
+         });
+  }
  } else if(command === 'ranime') {
      Flandre.logging(msg);
-     const CustomCmdEmbedSuccess = new Flandre.flandreEmbedSuccess().setFooter(`Random Anime Flandre!`, FlandreClient.user.displayAvatarURL({ dynamic: true }));
+     const RanimeEmbedSuccess = new Flandre.flandreEmbedSuccess().setFooter(`Random Anime Flandre!`, FlandreClient.user.displayAvatarURL({ dynamic: true }));
      let Ranime = RandomAnime.anime();
-     CustomCmdEmbedSuccess.setTitle(`${FlandreHi} | *Anime!*`)
-     CustomCmdEmbedSuccess.setImage(Ranime)
-     Flandre.messageCreate(CustomCmdEmbedSuccess, msg);
+     RanimeEmbedSuccess.setTitle(`${FlandreHi} | *Anime!*`)
+     RanimeEmbedSuccess.setImage(Ranime)
+     Flandre.messageCreate(RanimeEmbedSuccess, msg);
  } else if(command === 'customcmd') {
       Flandre.logging(msg);
             const CustomCmdEmbedError = new Flandre.flandreEmbedError().setFooter(`Custom Command Flandre!`, FlandreClient.user.displayAvatarURL({ dynamic: true })),
