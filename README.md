@@ -19,6 +19,7 @@
 - *neko* - `Sends a random Neko!`
 - *nekogif* - `Sends a random Neko Gif!`
 - *ranime* - `Sends a random Anime Image!`
+- *rwaifu* - `Sends a random Anime Waifu!`
 ### Admin
 - *commandschannel* - `Disable/Enable a Channel for my commands!`
 - *autorole* - `Set the Autorole System!`
