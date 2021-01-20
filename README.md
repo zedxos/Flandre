@@ -18,6 +18,7 @@
 - *animemobilebg* - `Sends a random Anime Wallpaper for mobile!`
 - *neko* - `Sends a random Neko!`
 - *nekogif* - `Sends a random Neko Gif!`
+- *rafact* - `Sends a random Anime Facts!`
 - *raquote* - `Sends a random Anime Quote!`
 - *ranime* - `Sends a random Anime Image!`
 - *rwaifu* - `Sends a random Anime Waifu!`
