@@ -54,6 +54,10 @@
 - *pat* - `Pat someone or just yourself!`
 - *slap* - `Slap someone or just yourself!`
 - *tickle* - `Tickle someone or just yourself!`
+- *dance* - `Dance with someone or just yourself!`
+- *run* - `Run at someone or just yourself!`
+- *happy* - `Happy with someone or just yourself!`
+- *nervous* - `Nervous at someone or just yourself!`
 - *vomit* - `Vomit at someone or just yourself!`
 - *cry* - `Cry at someone or just yourself!`
 - *clap* - `Clap at someone or just yourself!`
