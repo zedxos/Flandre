@@ -21,7 +21,7 @@
 - *rafact* - `Sends a random Anime Facts!`
 - *raquote* - `Sends a random Anime Quote!`
 - *ranime* - `Sends a random Anime Image!`
-- *rcharacter* - `Sends a random Anime Character!`
+- *racharacter* - `Sends a random Anime Character!`
 ### Admin
 - *commandschannel* - `Disable/Enable a Channel for my commands!`
 - *autorole* - `Set the Autorole System!`
