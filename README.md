@@ -53,6 +53,7 @@
 - *smug* - `Smug at someone or just yourself!`
 - *pat* - `Pat someone or just yourself!`
 - *slap* - `Slap someone or just yourself!`
+- *pout* - `Pout at someone or just yourself!`
 - *tickle* - `Tickle someone or just yourself!`
 - *dance* - `Dance with someone or just yourself!`
 - *run* - `Run at someone or just yourself!`
