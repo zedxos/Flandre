@@ -60,6 +60,9 @@
 - *happy* - `Happy with someone or just yourself!`
 - *nervous* - `Nervous at someone or just yourself!`
 - *glomp* - `Glomp at someone or just yourself!`
+- *bonk* - `Bonk someone or just yourself!`
+- *smile* - `Smile at someone or just yourself!`
+- *handhold* - `Handhold with someone or just yourself!`
 - *cringe* - `Cringe at someone or just yourself!`
 - *highfive* - `Highfive at someone or just yourself!`
 - *bully* - `Bully someone or just yourself!`
