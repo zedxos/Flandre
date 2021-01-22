@@ -14,6 +14,7 @@
 - *animememe* - `Sends a random Anime Meme!`
 - *animescrap* - `Get an info on specific Anime series!`
 - *animeavatar* - `Get a Random Anime PfP!`
+- *achinfo* - `Get info on specific Anime Character!`
 - *animebg* - `Sends a random Anime Wallpaper for pc!`
 - *animemobilebg* - `Sends a random Anime Wallpaper for mobile!`
 - *neko* - `Sends a random Neko!`
