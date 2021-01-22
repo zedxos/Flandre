@@ -97,9 +97,10 @@ Flandre/Config/Config.ts
 ```ts
 module.exports = {
   discord_token: '', // Your bot's token
-  cmd_cooldown: 3, // Cooldown in every command in (secs)
-  developer: '704697854207459419', // Your ID Enable Developers mode if you don't know
-  prefix: 'f.' // Your Bot's prefix
+  cmd_cooldown: 3, // Cooldown in every cmd (in secs)
+  developer: '704697854207459419', // Your user ID
+  server: 'https://discord.gg/dc99VGUrrw', // Support Server for your bot
+  prefix: 'f.' // Bot's prefix
 }
 ```
 Flandre/Config/Emojis.ts
