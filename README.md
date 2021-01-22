@@ -99,7 +99,7 @@ module.exports = {
   discord_token: '', // Your bot's token
   cmd_cooldown: 3, // Cooldown in every cmd (in secs)
   developer: '704697854207459419', // Your user ID
-  server: 'https://discord.gg/dc99VGUrrw', // Support Server for your bot
+  server: 'https://discord.gg/dc99VGUrrw', // Support Server for your bot (this is non sense so its optional)
   prefix: 'f.' // Bot's prefix
 }
 ```
