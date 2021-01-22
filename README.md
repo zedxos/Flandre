@@ -83,7 +83,7 @@
 # Self Hosting
 
 ### Commands
-- [CommandsChannel](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L134)
+- [CommandsChannel(Old Version)](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L134)
 - [AnimeMeme](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L192)
 - [Hug](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L221)
 - [Cuddle](https://github.com/zedxos/Flandre/blob/a4131f8b35675d081f2e5d7c6d510346f4ad74db/Flandre/Flandre.js#L244)
