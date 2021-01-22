@@ -1,27 +1,3 @@
-exports 
-Anime-
-animememe
-animescrap
-animeavatar
-neko
-animebg
-animemobilebg
-ranime
-Admin-
-commandschannel
-autorole
-setchatchannel
-autoping
-customcmd
-Miscellaneous-
-help
-avatar
-roles
-channels
-weather
-emojis
-info
-roleinfo
 uptime
 userinfo
 serverinfo
@@ -41,8 +17,20 @@ vomit
 cry
 clap
 scared
+dance
+run
+nervous
+bully
+glomp
+cringe
+highfive
+pout
+happy
 hello
 bye
+bonk
+smile
+handhold
 blush
 bored
 sad
@@ -51,4 +39,4 @@ divorce
 Owner-(not counted)
 ev
 
-45= total
+61= total
