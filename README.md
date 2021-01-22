@@ -65,6 +65,9 @@
 - *handhold* - `Handhold with someone or just yourself!`
 - *cringe* - `Cringe at someone or just yourself!`
 - *highfive* - `Highfive at someone or just yourself!`
+- *wave* - `Wave at someone or just yourself!`
+- *nom* - `Nom someone or just yourself!`
+- *bite* - `Bite someone or just yourself!`
 - *bully* - `Bully someone or just yourself!`
 - *vomit* - `Vomit at someone or just yourself!`
 - *cry* - `Cry at someone or just yourself!`
