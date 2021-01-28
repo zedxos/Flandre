@@ -30,6 +30,7 @@
 - *commandschannel* - `Disable/Enable a Channel for my commands!`
 - *autorole* - `Set the Autorole System!`
 - *addrole* - `Add a Role to specific user!`
+- *removerole* - `Remove a Role to specific user!`
 - *setchatchannel* - `Set the Autorole System!`
 - *autoping* - `Set the AutoPing Channel!`
 - *customcmd* - `Add or Remove Custom Command in the server!`
