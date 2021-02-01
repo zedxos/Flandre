@@ -57,6 +57,8 @@
 - *feed* - `Feed someone or just yourself!`
 - *smug* - `Smug at someone or just yourself!`
 - *pat* - `Pat someone or just yourself!`
+- *think* - `Think about someone or just yourself!`
+- *confused* - `Confused with someone or just yourself!`
 - *slap* - `Slap someone or just yourself!`
 - *pout* - `Pout at someone or just yourself!`
 - *tickle* - `Tickle someone or just yourself!`
