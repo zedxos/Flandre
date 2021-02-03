@@ -34,6 +34,17 @@
 - *setchatchannel* - `Set the Autorole System!`
 - *autoping* - `Set the AutoPing Channel!`
 - *customcmd* - `Add or Remove Custom Command in the server!`
+## Fun
+- *wolverine* - `Wolverine Meme!`
+- *stonks* - `Stonks Meme!`
+- *speed* - `i am speed Meme!`
+- *icanmilkyou* - `I can milk you Meme!`
+- *drip* - `Drip Meme!`
+- *emergency* - `Emergency Among Us Meme!`
+- *ejected* - `Ejected Among Us Meme!`
+- *carreverse* - `Carreverse Meme!`
+- *water* - `Water Meme!`
+- *firsttime* - `First Time? Meme!`
 ### Misc
 - *afk* - `Set yourself Afk!`
 - *avatar* - `Make your avatar or someones' avatar downloadable!`
