@@ -117,11 +117,12 @@
 Flandre/Config/Config.ts
 ```ts
 module.exports = {
-  discord_token: '', // Your bot's token
-  cmd_cooldown: 3, // Cooldown in every cmd (in secs)
-  developer: '704697854207459419', // Your user ID
-  server: 'https://discord.gg/dc99VGUrrw', // Support Server for your bot (this is non sense so its optional)
-  prefix: 'f.' // Bot's prefix
+  discord_token: '', // Your discord bot token
+  tnai_token: '', // Get a token from tnai.ml
+  cmd_cooldown: 3, // Every Command cooldown 
+  developer: '704697854207459419', // (Optional) Your discord id
+  server: 'https://discord.gg/dc99VGUrrw', // (Optional) Your bot's support server
+  prefix: 'f.' // Your bot's prefix
 }
 ```
 Flandre/Config/Emojis.ts
