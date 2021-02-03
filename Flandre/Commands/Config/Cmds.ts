@@ -1,14 +1,49 @@
+exports 
+Anime-
+animememe
+animescrap
+animeavatar
+achinfo
+azurlane
+neko
+nekogif
+animebg
+animemobilebg
+rafact
+raquote
+ranime
+racharacter
+Admin-
+commandschannel
+autorole
+addrole
+removerole
+setchatchannel
+autoping
+customcmd
+Fun-
+wolverine
+speed
+stonks
+icanmilkyou
+drip
+emergency
+ejected
+water
+carreverse
+firsttime
+Miscellaneous-
+afk
+help
+avatar
+weather
+emojis
+info
+roleinfo
 uptime
 userinfo
 serverinfo
 membercount
-Roleplay-
-hug
-cuddle
-kiss
-poke
-feed
-smug
 pat
 punch
 slap
@@ -19,6 +54,8 @@ clap
 scared
 dance
 run
+think
+confused
 nervous
 bully
 glomp
@@ -28,6 +65,9 @@ pout
 happy
 hello
 bye
+nom
+bite
+wave
 bonk
 smile
 handhold
@@ -35,8 +75,8 @@ blush
 bored
 sad
 marry
-divorce
 Owner-(not counted)
 ev
 
-61= total
+79= total
+divorce
